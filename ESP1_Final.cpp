@@ -5,14 +5,14 @@
 /************************* WiFi Access Point *********************************/
 
 #define WLAN_SSID       "Maymuna"  // replace it with your Wifi Name
-#define WLAN_PASS       "08032021"  // Replace it with your wifi password
+#define WLAN_PASS       "........."  // Replace it with your wifi password
 
 /************************* Adafruit.io Setup *********************************/
 
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
 #define AIO_USERNAME    "Sunzheini"  // Change this to your username
-#define AIO_KEY         "aio_aEVH74oDHbS71AWjk75coNJA9msZ"  // Change this to your key
+#define AIO_KEY         ".............................."  // Change this to your key
 
 const int inputPin =  4;      // D2
 const int relayPin =  0;      // D3
